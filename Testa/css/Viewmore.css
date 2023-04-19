@@ -285,7 +285,7 @@ a, a:visited, a:active, a:hover {
   100% {opacity:0%;}
   }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .Home {
     position: absolute;
     top:15px;
